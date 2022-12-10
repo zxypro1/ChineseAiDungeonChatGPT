@@ -5,6 +5,12 @@ dnd_config = {
         "constitution": 10,
         "intelligence": 10,
         "wisdom": 10,
-        "charisma": 10
+        "charisma": 10,
+        "items": []
+    },
+    "story": {
+        "style": "bright",
+        "background": None,
+
     }
 }
